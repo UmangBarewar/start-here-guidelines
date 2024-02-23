@@ -1,5 +1,7 @@
 # CONTRIBUTORS
+- [Mark Mavis](https://github.com/mark-mavis)
 
+- [Grace Bong](https://github.com/bongster91)
 
 - [subutian](https://github.com/krishvsoni)
 
@@ -9,7 +11,11 @@
   
 - [Krish Soni](https://github.com/krishvsoni)
 
+- [Reesu Jagan](https://github.com/codejay12)
+
 - [tfernandez2017] (https://github.com/tfernandez2017)
+
+- [dustinkeller] (https://github.com/dustinkeller)
 
 - [Eric Lahoda](https://github.com/elahoda)
 
@@ -41,6 +47,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Vidhi Jain](https://github.com/vidhijain27)
 
+- [Bach](https://github.com/danbax)
+
 - [Idan B](https://github.com/idanbe)
 
 - [Deima Nongkseh] (https://github.com/deima96)
@@ -69,6 +77,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [kolibri0509](https://github.com/kolibri0509)
 
 - [Joanna McDonald](https://github.com/joannamcd)
+
+- [Bltzz](https://github.com/Bltzz)
 
 - [leviduncan] (https://github.com/leviduncan)
 
@@ -1274,6 +1284,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Chijason99](https://github.com/chijason99)
 
+  [@zoHC](https://github.com/zoHC)
+
 - [@Chilledoutluke](https://github.com/chilledoutluke)
 
 - [@Chin24](https://github.com/chin24)
@@ -2475,6 +2487,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Ezekielysunday](https://github.com/ezekielysunday)
 
 - [@Ezzykine](https://github.com/ezzykine)
+
+- [@Erzanthedev](https://github.com/erzanthedev)
 
 - [@F1V3Dev](https://github.com/f1v3-dev)
 
@@ -4427,6 +4441,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Kellerjohnson](https://github.com/keller-johnson)
 
+- [@FETKlOkAn](https://github.com/FETKlOkAn)
+
 - [@Kelsydev](https://github.com/Kelsy-Dev)
 
 - [@Kelvindo183](https://github.com/KelvinDo183)
@@ -6110,6 +6126,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Navseq](https://github.com/navseq)
 
+- [@Navya1010777](https://github.com/Navya1010777)
+
 - [@Nawabsahab16](https://github.com/nawabsahab16)
 
 - [@Nawang06](http://github.com/Nawang06)
@@ -6763,6 +6781,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Piyyyuussshh](https://github.com/Piyyyuussshh)
 
 - [@Pizzio98](https://github.com/pizzio98)
+
+- [@KJovan](https://github.com/KJovan)
 
 - [@Pkini2002](https://github.com/pkini2002)
 
@@ -8489,6 +8509,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Sunshadowhood](https://github.com/SunShadowhood)
 
+- [@angelsosa11] (https://github.com/angelsosa11)
+
 - [@Sunthecrow](https://github.com/sunthecrow)
 
 - [@Suochantsao](https://github.com/suochantsao)
@@ -9421,6 +9443,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Wsg](https://github.com/WS-G)
 
+- [@DarioGu](https://github.com/DarioGu)
+
 - [@Wylenjoan](https://github.com/wylenjoan)
 
 - [@Wylerlight](https://github.com/Wylerlight)
@@ -9843,7 +9867,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@bassamarnaout](https://github.com/bassamarnaout)
 
-- [@mihajlo88](https://github.com/mihajlo88/)
+- [@Mihajlo88](https://github.com/Mihajlo88)
 
 - [@Arraj2611](https://github.com/Arraj2611)
 
@@ -9997,6 +10021,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@salmenkhelifi1](https://github.com/salmenkhelifi1)
 
+- [@v3nk3y](https://github.com/v3nk3y)
+
 - [@amanmhmmdshb](https://github.com/amanmhmmdshb)
 
 - [@jayvyper](https://github.com/Jayvyper)
@@ -10113,6 +10139,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@NegativE333](https://github.com/NegativE333/)
 
+- [@therealalexolthoff](https://github.com/therealalexolthoff/)
 - [@Raka1104](https://github.com/Raka1104)
 
 - [@seay98](https://github.com/seay98)
@@ -10383,6 +10410,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [@ankitaeth](https://github.com/ankitaeth)
 
 - [Silvio Costa](https://github.com/Nash1988)
+
+-[How Tin]
 
 - [@ezenielrios](https://github.com/ezenielrios)
 
@@ -10781,6 +10810,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Zak-Norval](https://github.com/Zak-Norval/)
 
+- [@itsallaboutme613](https://github.com/itsallaboutme613/)
+
 - [Nelan](https://github.com/NelanJoe)
 - [@Saifza](https://github.com/saifza)
 
@@ -10808,7 +10839,7 @@ _ [Ramon R](https://github.com/artboycat)
 -[@Ivaeden](https://github.com/Ivaeden)
 
 -[@RobTheWorld](https://github.com/RobTheWorld/)
-
+-[@ArvinYang1925](https://github.com/ArvinYang1925)
 -[@tonguegrease](https://github.com/tonguegrease)
 
 -[@mirikerimli](https://github.com/mirikerimli)
@@ -10819,7 +10850,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@adriaanrijkens](https://github.com/adriaanrijkens)
 
--[Stratosss](https://github.com/Stratosss)
+-[@Stratosss](https://github.com/Stratosss)
 
 -[@zaugust4891](https://github.com/zaugust4891/)
 
@@ -10832,7 +10863,7 @@ _ [Ramon R](https://github.com/artboycat)
 -[@codewithsupra](https://github.com/codewithsupra)
 
 -[@nathanfrank](https://github.com/nathanfrank)
-
+-[@vanceaaalexandru](https://github.com/vanceaaalexandru)
 -[@DevCielo](https://github.com/DevCielo)
 
 -[@DevKobs](https://github.com/DevKobs)
@@ -10840,6 +10871,7 @@ _ [Ramon R](https://github.com/artboycat)
 -[@Aekagra-7](https://github.com/Aekagra-7)
 
 -[@Dice-k5599](https://github.com/Dice-k5599)
+[2edwinq](https://github.com/2edwinq)
 
 -[Jonee](https://github.com/Jonee2)
 
@@ -10861,3 +10893,47 @@ _ [Ramon R](https://github.com/artboycat)
 -[@Vulture33](https://github.com/Vulture33)
 
 -[@SDR4991](https://github.com/SDR4991)
+
+-[@VasilTsvetkov](https://github.com/VasilTsvetkov)
+
+-[@Mohamed-Amir](https://github.com/Mohamed-Amir)
+
+-[@timthetech30](https://github.com/timthetech30)
+
+-[@adarshk01](https://github.com/adarshk01)
+
+-[@stefisha](https://github.com/stefisha)
+
+-[@JayKirt](https://github.com/JayKirt)
+
+-[@raeez21](https://github.com/raeez21)
+
+-[@infosuraj](https://github.com/infosuraj)
+
+-[@Carmelo85S](https://github.com/Carmelo85S)
+
+-[@jwradhe](https://github.com/jwradhe) 
+
+-[@Tradejack229](https://github.com/tradejack229/)
+-[@Oma3r](https://github.com/Oma3r/)
+
+-[@rccoder22](https://github.com/rccoder22/)
+-[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
+
+-[@simirmantas](https://github.com/simirmantas)
+
+-[@DanielSmrz4](https://github.com/DanielSmrz4)
+
+-[@JoeyWright](https://github.com/JoeyWright)
+
+-[@proelisei](https://github.com/proelisei)
+
+-[@EMEDAT](https://github.com/EMEDAT)
+
+-[@emads22](https://github.com/emads22)
+
+-[@gabe_marques](https://github.com/gabe-marques)
+
+-[@Kishan Agarwalla](https://github.com/developerkishan)
+
+- [@mauromig](https://github.com/mauromig/)
